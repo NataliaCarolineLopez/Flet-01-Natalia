@@ -26,12 +26,12 @@ def main(page: ft.Page):
 
     # Criando nosso botão
     meu_botao = ft.ElevatedButton(
-        text="Clique em mim!",  # Texto que aparece no botão
-        on_click=botao_clicado,  # Função que será executada no clique
-        width=200,               # Largura do botão
-        height=50,               # Altura do botão
-        bgcolor=ft.Colors.PINK,  # Cor de fundo
-        color=ft.Colors.WHITE    # Cor do texto
+        text="Clique em mim!",  
+        on_click=botao_clicado,
+        width=200,               
+        height=50,              
+        bgcolor=ft.Colors.PINK, 
+        color=ft.Colors.WHITE    
     )
 
     # Adicionando os elementos à página

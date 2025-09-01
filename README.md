@@ -14,3 +14,6 @@
 ## Lista Cores
 <img width="959" height="425" alt="image" src="https://github.com/user-attachments/assets/a148244d-e561-499d-a659-15012a524bb2" />
 <img width="959" height="431" alt="image" src="https://github.com/user-attachments/assets/49bf494c-2617-4a5c-949c-71bdf15a21db" />
+
+## Layout Básico
+<img width="959" height="431" alt="image" src="https://github.com/user-attachments/assets/9c93e301-dd14-4861-9fce-508e2c5ab116" />

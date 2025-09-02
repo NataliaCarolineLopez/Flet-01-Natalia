@@ -30,3 +30,10 @@
 ## Calculadora
 <img width="959" height="432" alt="image" src="https://github.com/user-attachments/assets/fbc072b7-7240-4fea-b0a5-afe74851aab2" />
 <img width="959" height="427" alt="image" src="https://github.com/user-attachments/assets/5e8d9064-9b4c-4df6-9391-60fe1fac8fce" />
+
+## Painel Config
+<img width="959" height="437" alt="image" src="https://github.com/user-attachments/assets/cc393819-b8c5-41b7-9ccd-7d19bbfbc1fc" />
+
+## Zoológico Virtual
+<img width="959" height="426" alt="image" src="https://github.com/user-attachments/assets/67275677-e8c7-49a1-899f-5836cb9f3885" />
+<img width="959" height="416" alt="image" src="https://github.com/user-attachments/assets/1724d9d0-5460-4f18-b6a5-d32cbb13461a" />

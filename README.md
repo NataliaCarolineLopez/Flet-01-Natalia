@@ -26,3 +26,7 @@
 <img width="959" height="431" alt="image" src="https://github.com/user-attachments/assets/5b55e39e-0387-4edf-b66e-7848e15ea33b" />
 <img width="959" height="432" alt="image" src="https://github.com/user-attachments/assets/45dee8ff-cfa4-4617-be1a-5baa7f66fa2a" />
 <img width="959" height="413" alt="image" src="https://github.com/user-attachments/assets/4496d695-3337-43b2-b51c-c4e3ddea8b5e" />
+
+## Calculadora
+<img width="959" height="432" alt="image" src="https://github.com/user-attachments/assets/fbc072b7-7240-4fea-b0a5-afe74851aab2" />
+<img width="959" height="427" alt="image" src="https://github.com/user-attachments/assets/5e8d9064-9b4c-4df6-9391-60fe1fac8fce" />

@@ -6,7 +6,7 @@ def main(page: ft.Page):
     
     # Área de preview
     area_preview = ft.Container(
-        content=ft.Text("Texto de exemplo para configurar 🎨", size=16, color=ft.Colors.BLACK),
+        content=ft.Text("Vai Corinthians 🦅", size=16, color=ft.Colors.BLACK),
         bgcolor=ft.Colors.WHITE, padding=20, border_radius=10,
         border=ft.border.all(2, ft.Colors.GREY_300), width=350, height=150,
         alignment=ft.alignment.center

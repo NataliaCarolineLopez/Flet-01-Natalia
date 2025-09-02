@@ -56,25 +56,25 @@ def main(page: ft.Page):
             "nome": "Cachorro", 
             "emoji": "🐶", 
             "descricao": "Melhor amigo", 
-            "cor": ft.Colors.BROWN_400, 
+            "cor": ft.Colors.GREEN_400, 
             "categoria": "Doméstico", 
             "tamanho": "Grande"
         },
         {
-            "nome": "Peixe", 
-            "emoji": "🐟", 
-            "descricao": "Animal aquático", 
-            "cor": ft.Colors.BLUE_400, 
-            "categoria": "Aquático", 
+            "nome": "Macaco-Prego", 
+            "emoji": "🐒", 
+            "descricao": "Animal doméstico", 
+            "cor": ft.Colors.BROWN_400, 
+            "categoria": "Doméstico", 
             "tamanho": "Pequeno"
         },
         {
-            "nome": "Pássaro", 
-            "emoji": "🐦", 
+            "nome": "Gavião", 
+            "emoji": "🦅", 
             "descricao": "Voa livremente", 
-            "cor": ft.Colors.GREEN_400, 
+            "cor": ft.Colors.BLACK87, 
             "categoria": "Selvagem", 
-            "tamanho": "Pequeno"
+            "tamanho": "Médio"
         },
         {
             "nome": "Coelho", 
@@ -239,7 +239,7 @@ def main(page: ft.Page):
             
             # Título principal do app
             ft.Text(
-                "🦁 Zoológico Virtual", 
+                " Zoológico Virtual", 
                 size=24, 
                 weight=ft.FontWeight.BOLD, 
                 text_align=ft.TextAlign.CENTER

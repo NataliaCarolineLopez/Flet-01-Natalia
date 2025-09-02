@@ -30,3 +30,17 @@
 ## Calculadora
 <img width="959" height="432" alt="image" src="https://github.com/user-attachments/assets/fbc072b7-7240-4fea-b0a5-afe74851aab2" />
 <img width="959" height="427" alt="image" src="https://github.com/user-attachments/assets/5e8d9064-9b4c-4df6-9391-60fe1fac8fce" />
+
+## Painel Config
+<img width="959" height="437" alt="image" src="https://github.com/user-attachments/assets/cc393819-b8c5-41b7-9ccd-7d19bbfbc1fc" />
+
+## Zoológico Virtual
+<img width="959" height="426" alt="image" src="https://github.com/user-attachments/assets/67275677-e8c7-49a1-899f-5836cb9f3885" />
+<img width="959" height="416" alt="image" src="https://github.com/user-attachments/assets/1724d9d0-5460-4f18-b6a5-d32cbb13461a" />
+
+## 10 Desafio
+<img width="959" height="425" alt="image" src="https://github.com/user-attachments/assets/d15936e5-1767-4a35-80f9-ea2bb662b133" />
+<img width="959" height="422" alt="image" src="https://github.com/user-attachments/assets/c6f60086-b454-4757-8409-8334c117f1a3" />
+<img width="956" height="217" alt="image" src="https://github.com/user-attachments/assets/c273541a-65d3-4a6a-96a1-6b881328d772" />
+<img width="254" height="209" alt="image" src="https://github.com/user-attachments/assets/60245e08-3e47-406f-be39-c41b77852115" />
+
